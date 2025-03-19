@@ -85,10 +85,15 @@ def iterate():
 iterate()
 ```
 ### Output:
+### Do While
 ![STL 1](https://github.com/user-attachments/assets/82437ebd-6f04-4ae8-bd11-b5ec1176a359)
+### While Do
 ![STL 2](https://github.com/user-attachments/assets/98d49407-0396-42ba-ad3d-4357ada74442)
+### Switch
 ![STL 3](https://github.com/user-attachments/assets/80d8f97e-be8f-46b5-8601-5918e0fb74ca)
+### If Else
 ![STL 4](https://github.com/user-attachments/assets/9a1a0efa-1321-499e-a473-effdbf912dc0)
+### For
 ![STL 5](https://github.com/user-attachments/assets/c7a3f053-76cd-47a7-bd06-1aa6eda3d72c)
 
 ### Result:
